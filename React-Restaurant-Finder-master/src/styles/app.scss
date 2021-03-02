@@ -1,0 +1,32 @@
+.navbar {
+  text-align: center;
+}
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+.active.btn.btn-link {
+  background-color: #ffe78b;
+  border-radius: 5px;
+}
+.btn-group {
+  margin: 0px 10px;
+}
+.sort {
+  margin: 20px;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
